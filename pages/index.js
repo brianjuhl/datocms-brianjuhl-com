@@ -40,4 +40,4 @@ export async function getStaticProps({ preview }) {
   return {
     props: { allPosts },
   }
-}
+} 
